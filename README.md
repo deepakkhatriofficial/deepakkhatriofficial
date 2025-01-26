@@ -1,4 +1,4 @@
-[![MasterHead](https://www.simplilearn.com/ice9/free_resources_article_thumb/What_is_Data_Analysis.jpg)
+![MasterHead](https://www.simplilearn.com/ice9/free_resources_article_thumb/What_is_Data_Analysis.jpg)
 <h1 align="center">Hi 👋, I'm Deepak kumar khatri! 👋</h1>
 <h3 align="center">A passionate Junior data analyst from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak699798&label=Profile%20views&color=0e75b6&style=flat" alt="deepak699798" /> </p>

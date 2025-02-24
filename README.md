@@ -1,4 +1,4 @@
-![MasterHead](https://di3xp7dfi3cq.cloudfront.net/media/magefan_blog/data-analysis-skills-duties-responsibilities.jpeg)
+#![MasterHead](https://di3xp7dfi3cq.cloudfront.net/media/magefan_blog/data-analysis-skills-duties-responsibilities.jpeg)
 <h1 align="center">Hi 👋, I'm Deepak kumar khatri! 👋</h1>
 <h3 align="center">A passionate Junior data analyst from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak699798&label=Profile%20views&color=0e75b6&style=flat" alt="deepak699798" /> </p>

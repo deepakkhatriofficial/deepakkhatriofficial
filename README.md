@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **SQL and Tableau**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Deepak699798](https://github.com/Deepak-khatri-1306)
-
 - 💬 Ask me about **Data Analytics**
 
 - 📫 How to reach me **Khatrideepak1821@gmail.com**

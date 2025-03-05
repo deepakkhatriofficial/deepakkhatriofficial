@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Covid19-Data-Analysis-Using-Python](https://github.com/Deepak699798/Covid19-Data-Analysis-Using-Python)
+- 🔭 I’m currently working on **Hotel_booking**
 
 - 🌱 I’m currently learning **SQL and Tableau**
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **Khatrideepak1821@gmail.com**
 
-- 📄 Know about my experiences 6 Months Training
+- 📄 Know about my experience 6 Months Training
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

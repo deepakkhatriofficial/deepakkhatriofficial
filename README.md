@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **Khatrideepak1821@gmail.com**
 
-- 📄 Know about my experience 6 Months Training
+- 📄 Know about my experience **6 Months Training**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,5 +1,5 @@
 ![image](https://github.com/user-attachments/assets/7d47ab7c-e35e-455d-89d3-3b3866aebee4)
-<h1 align="center">Hi 👋, I'm Deepak kumar khatri! 👋</h1>
+<h1 align="center">Hi 👋, I'm Deepak kumar! 👋</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak699798&label=Profile%20views&color=0e75b6&style=flat" alt="deepak699798" /> </p>

@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Hotel_booking**
 
-- 🌱 I’m currently learning **SQL and Tableau**
+- 🌱 I’m currently seeking **Junior Data Analyst**
 
 - 💬 Ask me about **Data Analytics**
 

@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Hotel_booking**
 
-- 🌱 I’m currently seeking **Junior Data Analyst**
+- 🌱 I’m currently seeking **Junior Data Analyst** Role
 
 - 💬 Ask me about **Data Analytics**
 
